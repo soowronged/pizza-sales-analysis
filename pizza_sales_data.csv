@@ -1,0 +1,6 @@
+order_id,pizza_type,order_date,delivery_time_mins,customer_rating
+1,Pepperoni,2026-05-01,22,5
+2,Margherita,2026-05-02,45,2
+3,BBQ Chicken,2026-05-02,50,1
+4,Veggie Supreme,2026-05-03,18,5
+5,Pepperoni,2026-05-03,42,3
